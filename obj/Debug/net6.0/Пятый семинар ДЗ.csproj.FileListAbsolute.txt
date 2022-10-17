@@ -1,0 +1,15 @@
+C:\Users\julie\OneDrive\Рабочий стол\Домашки\Семинары С#\Пятый семинар ДЗ\bin\Debug\net6.0\Пятый семинар ДЗ.exe
+C:\Users\julie\OneDrive\Рабочий стол\Домашки\Семинары С#\Пятый семинар ДЗ\bin\Debug\net6.0\Пятый семинар ДЗ.deps.json
+C:\Users\julie\OneDrive\Рабочий стол\Домашки\Семинары С#\Пятый семинар ДЗ\bin\Debug\net6.0\Пятый семинар ДЗ.runtimeconfig.json
+C:\Users\julie\OneDrive\Рабочий стол\Домашки\Семинары С#\Пятый семинар ДЗ\bin\Debug\net6.0\Пятый семинар ДЗ.dll
+C:\Users\julie\OneDrive\Рабочий стол\Домашки\Семинары С#\Пятый семинар ДЗ\bin\Debug\net6.0\Пятый семинар ДЗ.pdb
+C:\Users\julie\OneDrive\Рабочий стол\Домашки\Семинары С#\Пятый семинар ДЗ\obj\Debug\net6.0\Пятый семинар ДЗ.csproj.AssemblyReference.cache
+C:\Users\julie\OneDrive\Рабочий стол\Домашки\Семинары С#\Пятый семинар ДЗ\obj\Debug\net6.0\Пятый семинар ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\OneDrive\Рабочий стол\Домашки\Семинары С#\Пятый семинар ДЗ\obj\Debug\net6.0\Пятый семинар ДЗ.AssemblyInfoInputs.cache
+C:\Users\julie\OneDrive\Рабочий стол\Домашки\Семинары С#\Пятый семинар ДЗ\obj\Debug\net6.0\Пятый семинар ДЗ.AssemblyInfo.cs
+C:\Users\julie\OneDrive\Рабочий стол\Домашки\Семинары С#\Пятый семинар ДЗ\obj\Debug\net6.0\Пятый семинар ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\julie\OneDrive\Рабочий стол\Домашки\Семинары С#\Пятый семинар ДЗ\obj\Debug\net6.0\Пятый семинар ДЗ.dll
+C:\Users\julie\OneDrive\Рабочий стол\Домашки\Семинары С#\Пятый семинар ДЗ\obj\Debug\net6.0\refint\Пятый семинар ДЗ.dll
+C:\Users\julie\OneDrive\Рабочий стол\Домашки\Семинары С#\Пятый семинар ДЗ\obj\Debug\net6.0\Пятый семинар ДЗ.pdb
+C:\Users\julie\OneDrive\Рабочий стол\Домашки\Семинары С#\Пятый семинар ДЗ\obj\Debug\net6.0\Пятый семинар ДЗ.genruntimeconfig.cache
+C:\Users\julie\OneDrive\Рабочий стол\Домашки\Семинары С#\Пятый семинар ДЗ\obj\Debug\net6.0\ref\Пятый семинар ДЗ.dll
